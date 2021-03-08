@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first application with React.
+
+It is an app that uses the giphy API to use a search for gifs form
 
 ## Available Scripts
 
